@@ -43,7 +43,7 @@ We divided the work as follows:
 I was responsible for coding so I can only speak in detail to that facet.  
 The work mostly involved finding papers on the topic, and implementing the methods presented in Python.
 
-As this was our first quant project, we had to draw from many [very helpful sources](#-references).  
+As this was our first quant project, we had to draw from many [very helpful sources](#references).  
 My goal was to digest the content, implement it efficiently, and add my own spin.  
 I used models with which I was more familiar, and chose some of the more approachable methods I could find.
 
