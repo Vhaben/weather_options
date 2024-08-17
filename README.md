@@ -27,8 +27,8 @@ Traded volumes do remain small but many forecast substantial growth.
 These options are typically structured based on the number of Degree Days (DD), in which the mean temperature (defined as the average of the max and min on a given day) is above or below a certain reference (typically 18 &deg;C).  
 The expected payoff of an option is simply a function of the number of DD in a given period, relative to the strike level (a predetermined number of DD).
 
-Business not only often treat these contracts as insurance, but also choose to write these optinos themselves.  
-For exmaple, a heating oil retailer expecting a very cold winter, and therefore high revenues, might sell an HDD call.  
+Businesses not only often treat these contracts as insurance, but also choose to write these optinos themselves.  
+For example, a heating oil retailer expecting a very cold winter, and therefore high revenues, might sell an HDD call.  
 If the winter is not cold, the heating oil retailer keeps the premium on the call. If it is, the strong season can compensate for the loss.
 
 As the underlying variable, the temperature, is not tradable, the weather derivatives market is incomplete.
