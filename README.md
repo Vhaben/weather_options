@@ -24,7 +24,7 @@ Traded volumes do remain small but many forecast substantial growth.
 
 ## Principles
 
-These options are typically structured based on the number of Degree Days (DD), in which the mean temperature (defined as the average of the max and min on a given day) is above or below a certain reference (typically 18 &deg; C).  
+These options are typically structured based on the number of Degree Days (DD), in which the mean temperature (defined as the average of the max and min on a given day) is above or below a certain reference (typically 18 &deg;C).  
 The expected payoff of an option is simply a function of the number of DD in a given period, relative to the strike level (a predetermined number of DD).
 
 Business not only often treat these contracts as insurance, but also choose to write these optinos themselves.  
