@@ -60,4 +60,4 @@ A non-exhaustive list of helpful resources:
 
 ## License
 
-All files associated with this project formed part of the CapitOx Quantitative Strategies Academy. All content presented in these files is intended for informational and educational purposes and should not be considered as investment advice. The content has been assembled through publicly available information. No responsibility or liability is assumed for the accuracy of the information used within this document.
+All files associated with this project formed part of the CapitOx Quantitative Strategies Academy. All content presented in these files is intended for informational and educational purposes and should not be considered as investment advice. The content has been assembled through publicly available information. No responsibility or liability is assumed for the accuracy of the information used within these files.
